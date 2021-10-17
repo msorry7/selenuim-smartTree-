@@ -1,3 +1,5 @@
+# chromedriver
+http://npm.taobao.org/mirrors/chromedriver/
 # selenuim-smartTree-
 基于python,selenuim自动测试框架
 用于每日智慧树学习习惯分
