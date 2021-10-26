@@ -5,5 +5,5 @@ http://npm.taobao.org/mirrors/chromedriver/
 用于每日智慧树学习习惯分
 
 # problem
-25分钟每日学习时间过长提示会跳错误
-每日总时长可能会混乱
+在单个弹窗却有大于等于2个问题时会出bug（代码没判）
+视频看完但右侧进度没有100%会出bug
